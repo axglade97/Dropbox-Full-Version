@@ -238,4 +238,4 @@ This repository serves as the official landing page for Dropbox. The software is
 **Get the most recent version of Dropbox today!**
 
 ---
-**Last updated:** 2026-10-24 22:01:16 UTC
+**Last updated:** 2026-10-25 00:36:38 UTC
